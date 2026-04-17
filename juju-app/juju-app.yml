@@ -1,4 +1,4 @@
 app: juju-app
 
-config.azure.vault.url: https://jujuvault.vault.azure.net/
-config.datasource.url: jdbc:mysql://jujudb.mysql.database.azure.com:3306/juju?useSSL=true&requireSSL=true&verifyServerCertificate=false
+azure.vault.url: https://jujuvault.vault.azure.net/
+datasource.url: jdbc:mysql://jujudb.mysql.database.azure.com:3306/juju?useSSL=true&requireSSL=true&verifyServerCertificate=false
